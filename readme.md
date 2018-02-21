@@ -4,5 +4,5 @@
 
 You can help me:
 - Adding issues;
-- Forking and addin files;
+- Forking and adding files;
 - etc.
